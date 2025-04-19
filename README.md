@@ -40,7 +40,7 @@ fraud_detection_project/
 
 ---
 Go to file `app.py` 
-# ← Correct relative path
+### ← Correct relative path
 refer to `line number : 17` : data = load_data('data\creditcard.csv')  
 
 
