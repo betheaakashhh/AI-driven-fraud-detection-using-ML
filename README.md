@@ -151,8 +151,8 @@ Feel free to fork this repo, contribute, or suggest improvements!
 ```
 ---
 -Follow Us 
--Aakash Kumar Sahu | [LinkedIn](https://www.linkedin.com/in/aakashkumarsahu/)
--Somesh Chuakde | [LinkedIn](https://www.linkedin.com/in/someshchaukde/)
+`Aakash Kumar Sahu` | [LinkedIn](https://www.linkedin.com/in/aakashkumarsahu/)
+`Somesh Chuakde` | [LinkedIn](https://www.linkedin.com/in/someshchaukde/)
 
 
 
