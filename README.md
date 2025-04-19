@@ -149,11 +149,11 @@ Feel free to fork this repo, contribute, or suggest improvements!
 |- ##Brijesh Satapathy
 
 ```
+---
 -Follow Us 
 -Aakash Kumar Sahu | [LinkedIn](https://www.linkedin.com/in/aakashkumarsahu/)
 -Somesh Chuakde | [LinkedIn](https://www.linkedin.com/in/someshchaukde/)
 
 
 
----
-```
+
