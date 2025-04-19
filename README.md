@@ -28,6 +28,14 @@ You need to manually download the dataset before running the project.
 3. Place the downloaded `creditcard.csv` inside the `data/` folder
 
 Final structure should look like this:
+fraud_detection_project/
+│
+├── app.py                # Main UI (Streamlit)
+├── model_utils.py        # ML logic and backend
+├── venv/                 # Python virtual environment
+├── data/                 # dataset folder
+      |_ Creditcard.csv    # dataset file(csv)
+└── notebooks/            # Jupyter notebooks (EDA, experiments)
 
 
 
