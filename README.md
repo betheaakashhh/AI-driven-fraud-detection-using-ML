@@ -138,5 +138,22 @@ fraud_detection_project/
 Made with 💙 using Python & Streamlit  
 Feel free to fork this repo, contribute, or suggest improvements!
 
+##Team Members
+```
+
+🔥Overclockers
+|- ##Somesh Chaukde
+|- ##Aakash Kumar Sahu
+|- ##Piyush Sinha
+|- ##Prakhar Dewangan
+|- ##Brijesh Satapathy
+
+```
+Follow Us 
+Aakash Kumar Sahu | [LinkedIn](https://www.linkedin.com/in/aakashkumarsahu/)
+Somesh Chuakde | [LinkedIn](https://www.linkedin.com/in/someshchaukde/)
+
+
+
 ---
 ```
