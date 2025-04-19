@@ -26,7 +26,7 @@ You need to manually download the dataset before running the project.
 1. Go to the link and download the CSV file (`creditcard.csv`)
 2. Create a folder named `data` in the project directory (if it doesn't exist)
 3. Place the downloaded `creditcard.csv` inside the `data/` folder
-
+```
 Final structure should look like this:
 fraud_detection_project/
 │
@@ -36,7 +36,8 @@ fraud_detection_project/
 ├── data/                 # dataset folder
       |_ Creditcard.csv    # dataset file(csv)
 └── notebooks/            # Jupyter notebooks (EDA, experiments)
-
+```
+---
 
 
 ## ⚙️ Setup Instructions
