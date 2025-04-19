@@ -37,7 +37,12 @@ fraud_detection_project/
       |_ Creditcard.csv    # dataset file(csv)
 └── notebooks/            # Jupyter notebooks (EDA, experiments)
 ```
+
 ---
+Go to file `app.py` 
+# ← Correct relative path
+refer to `line number : 17` : data = load_data('data\creditcard.csv')  
+
 
 
 ## ⚙️ Setup Instructions
