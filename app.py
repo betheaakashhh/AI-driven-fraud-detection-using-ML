@@ -14,7 +14,7 @@ st.markdown("<h4 style='text-align: center; color: grey;'>Powered by Machine Lea
 st.markdown("---")
 
 # Load & preprocess data
-data = load_data('venv\data\creditcard.csv')  # ← Correct relative path
+data = load_data('data\creditcard.csv')  # ← Correct relative path
 X, Y, new_data = preprocess_data(data)
 X_train, X_test, Y_train, Y_test, scaler = split_and_scale(X, Y)
 log_model, tree_model, iso_model = train_models(X_train, Y_train)
