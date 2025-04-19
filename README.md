@@ -16,6 +16,19 @@ This project is a machine learning-based ### **Credit Card Fraud Detection Syste
   - Decision Tree Classifier
   - Isolation Forest
 
+## 📥 Dataset Required
+
+You need to manually download the dataset before running the project.
+
+### 🔗 Download Link:
+[👉 Download Credit Card Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+1. Go to the link and download the CSV file (`creditcard.csv`)
+2. Create a folder named `data` in the project directory (if it doesn't exist)
+3. Place the downloaded `creditcard.csv` inside the `data/` folder
+
+Final structure should look like this:
+
 
 
 ## ⚙️ Setup Instructions
