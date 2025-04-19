@@ -1,11 +1,11 @@
-Sure! Here's the **actual `README.md` code** you can copy and paste into your project as a `README.md` file:
 
-```markdown
+
+
 # 💳 AI-Driven Credit Card Fraud Detection
 
 This project is a machine learning-based ### **Credit Card Fraud Detection System** built using **Python** and an interactive **Streamlit UI**. It allows users to explore, analyze, and predict fraudulent transactions using trained ML models with easy-to-use visualizations and real-time results.
 
----
+
 
 ## 📁 Project Overview
 
@@ -16,7 +16,7 @@ This project is a machine learning-based ### **Credit Card Fraud Detection Syste
   - Decision Tree Classifier
   - Isolation Forest
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -118,5 +118,3 @@ Feel free to fork this repo, contribute, or suggest improvements!
 
 ---
 ```
-
-You're good to go! Let me know if you want to turn this into a GitHub repository, add a `requirements.txt`, or auto-generate a project logo or badge.
