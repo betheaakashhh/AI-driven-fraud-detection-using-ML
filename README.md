@@ -3,7 +3,7 @@ Sure! Here's the **actual `README.md` code** you can copy and paste into your pr
 ```markdown
 # 💳 AI-Driven Credit Card Fraud Detection
 
-This project is a machine learning-based **Credit Card Fraud Detection System** built using **Python** and an interactive **Streamlit UI**. It allows users to explore, analyze, and predict fraudulent transactions using trained ML models with easy-to-use visualizations and real-time results.
+This project is a machine learning-based ### **Credit Card Fraud Detection System** built using **Python** and an interactive **Streamlit UI**. It allows users to explore, analyze, and predict fraudulent transactions using trained ML models with easy-to-use visualizations and real-time results.
 
 ---
 
