@@ -100,7 +100,11 @@ After installing the dependencies:
    ```bash
    venv\Scripts\activate
    ```
-3. Run the Streamlit app:
+3. Back to the main file:
+     ```bash
+     cd ../..
+     ```
+4. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
